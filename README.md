@@ -1,7 +1,7 @@
 # Algorithm Study (Personal)
 
-I'm going to refer below site for taking Algorithm example.
-I'm so beginner. It's just for my record.
+I'm going to refer below site for taking Algorithm example.<br>
+I'm so beginner. It's just for my record.<br>
 ** 초보자 주의 **
 
 1. Baekjoon : https://www.acmicpc.net/
