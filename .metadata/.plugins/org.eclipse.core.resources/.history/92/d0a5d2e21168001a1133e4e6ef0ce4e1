@@ -1,0 +1,8 @@
+package com.study.algo.backjoon_0317;
+
+//백준 알고리즘 9498번 문제
+//2단계 : IF문 - 두 수 비교하기
+//https://www.acmicpc.net/problem/back_9498
+public class Back_9498 {
+
+}

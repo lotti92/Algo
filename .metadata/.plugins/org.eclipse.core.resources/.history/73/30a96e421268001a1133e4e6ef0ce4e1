@@ -1,0 +1,14 @@
+package com.study.algo.backjoon_0317;
+
+
+//백준 알고리즘 14681번 문제
+//2단계 : IF문 - 사분면 고르기
+//https://www.acmicpc.net/problem/14681
+public class Back_14681 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

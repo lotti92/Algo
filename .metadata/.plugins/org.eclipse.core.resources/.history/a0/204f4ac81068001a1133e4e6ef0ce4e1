@@ -1,0 +1,10 @@
+package com.study.algo.backjoon_0317;
+
+//back_1330
+//2단계 : IF문 - 두 수 비교하기
+// https://www.acmicpc.net/problem/1330
+public class Back_1330 {
+	public static void main(String[] args) {
+		
+	}
+}

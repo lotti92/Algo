@@ -1,0 +1,12 @@
+package com.study.algo.backjoon_0316;
+
+//백준 알고리즘 10718번 문제
+//We love kriii (강한친구 대한육군 2회 출력)
+//https://www.acmicpc.net/problem/2557
+public class Back_10718 {
+	public static void main(String[] args) {
+		String text = "강한친구 대한육군";
+		System.out.println(text);
+		System.out.println(text);		
+	}
+}

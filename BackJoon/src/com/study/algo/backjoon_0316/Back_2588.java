@@ -1,0 +1,39 @@
+package com.study.algo.backjoon_0316;
+
+import java.util.Scanner;
+
+//백준 알고리즘 2588번 문제
+//곱셈 출력
+//https://www.acmicpc.net/problem/2588
+public class Back_2588 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		int result = b;
+		
+		//방법1
+		System.out.println(a*(b%10));
+		result = modTen(result);
+		System.out.println(a*(result%10));
+		result = modTen(result);
+		System.out.println(a*(result%10));
+		System.out.println(a*b);
+		
+		// 방법2
+//		int result2 = a*(b%10);
+//		System.out.println(result2);
+//		b = modTen(b);
+//		result2 = result2 + a*(b%10)*10;
+//		System.out.println(a*(b%10));
+//		b = modTen(b);
+//		result2 = result2 + a*(b%10)*100;
+//		System.out.println(a*(b%10));
+//		System.out.println(result2);
+	}
+	
+	public static int modTen(int num) {
+		num = (num - num%10)/10;		
+		return num;
+	}
+}

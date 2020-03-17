@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\³»¹®¼­\Algo\.metadata\.plugins\org.eclipse.jdt.core
+2883129558.index
+3503301772.index

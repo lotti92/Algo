@@ -1,0 +1,22 @@
+package com.study.algo.backjoon_0317;
+
+import java.util.Scanner;
+
+//back_1330
+//2단계 : IF문 - 두 수 비교하기
+// https://www.acmicpc.net/problem/1330
+public class Back_1330 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		
+		System.out.println(compareNumber(a,b));
+	}
+	
+	private static String compareNumber(int num1, int num2) {
+		if(num1 > num2) return ">";
+		else if (num1 < num2) return "<";
+		else return "==";
+	}
+}

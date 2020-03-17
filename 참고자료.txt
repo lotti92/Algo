@@ -1,0 +1,4 @@
+* 알고리즘 풀이에서 Scanner보다 BufferedReader가 많이 보여서 찾아봄
+
+[Java 입력] Scanner vs BufferedReader
+https://blog.naver.com/parkhj2416/221843949484

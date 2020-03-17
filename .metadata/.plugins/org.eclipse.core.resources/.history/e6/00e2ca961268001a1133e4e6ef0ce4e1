@@ -1,0 +1,11 @@
+package com.study.algo.backjoon_0317;
+
+//백준 알고리즘 2884번 문제
+//2단계 : IF문 - 알람 시계
+//https://www.acmicpc.net/problem/2884
+public class Back_2884 {
+	public static void main(String[] args) {
+		
+	}
+
+}

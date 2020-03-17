@@ -1,0 +1,148 @@
+import java.util.Scanner;
+
+public class back_0316 {
+
+//back_2557
+	// https://www.acmicpc.net/problem/2557
+//	public static void main(String[] args) {
+//		System.out.println("Hello World!");
+//	}
+
+	// back_10718
+	// https://www.acmicpc.net/problem/10718
+//	public static void main(String[] args) {
+//		System.out.println("강한친구 대한육군");
+//		System.out.println("강한친구 대한육군");
+//	}
+
+	// back_10171번
+	// https://www.acmicpc.net/problem/10171
+//	public static void main(String[] args) {
+//		System.out.println("\\    /\\");
+//		System.out.println(" )  ( ')");
+//		System.out.println("(  /  )");
+//		System.out.println(" \\(__)|");
+//	}
+
+	// back_10172
+	// https://www.acmicpc.net/problem/10172
+//	public static void main(String[] args) {
+//		System.out.println("|\\_/|");
+//		System.out.println("|q p|   /}");
+//		System.out.println("( 0 )\"\"\"\\");
+//		System.out.println("|\"^\"`    |");
+//		System.out.println("||_/=\\\\__|");
+//	}
+
+	// back_1000
+	// https://www.acmicpc.net/problem/1000
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a=0, b=0;
+//		a = sc.nextInt();
+//		b = sc.nextInt();
+//		if(a < 0 || b <0 || a > 10 || b > 10) {
+//			System.err.println("조건에 맞지 않음");
+//			System.exit(0);
+//		}
+//		System.out.println(a+b);
+//	}
+
+	// back_1001
+	// https://www.acmicpc.net/problem/1001
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a = 0, b = 0;
+//		a = sc.nextInt();
+//		b = sc.nextInt();
+//		if (a < 0 || b < 0 || a > 10 || b > 10) {
+//			System.err.println("조건에 맞지 않음");
+//			System.exit(0);
+//		}
+//		System.out.println(a - b);
+//	}
+	
+	//back_10998
+	//https://www.acmicpc.net/problem/10998
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a = sc.nextInt();
+//		int b = sc.nextInt();
+//		if(a < 0 || b < 0 || a > 10 || b > 10) {
+//			System.err.println("조건에 맞지 않음");
+//			System.exit(0);
+//		}
+//		System.out.println(a*b);
+//	}
+	
+	//back_1008
+	//https://www.acmicpc.net/problem/1008
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a = sc.nextInt();
+//		int b= sc.nextInt();
+//		if(a < 0 || b < 0 || a > 10 || b > 10) {
+//			System.err.println("조건에 맞지 않음");
+//			System.exit(0);
+//		}		
+//		System.out.println((double)a/b);
+//	}
+	
+	//back_10869
+	//https://www.acmicpc.net/problem/10869
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a = sc.nextInt();
+//		int b = sc.nextInt();
+//		if(a>=1&&b>=1&&a<=10000&&b<=10000) {
+//			System.out.println(a+b);
+//			System.out.println(a-b);
+//			System.out.println(a*b);
+//			System.out.println(a/b);
+//			System.out.println(a%b);
+//		} else {
+//			System.exit(0);
+//		}
+//	}
+	
+	//back_10430
+	//https://www.acmicpc.net/problem/10430
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a = sc.nextInt();
+//		int b = sc.nextInt();
+//		int c = sc.nextInt();
+//		if(a<1||b<1||c<1||a>10001||b>10001||c>10001) {
+//			System.exit(0);
+//		} else {
+//			System.out.println((a+b)%c);
+//			System.out.println((a%c + b%c)%c);
+//			System.out.println((a*b)%c);
+//			System.out.println((a%c * b%c)%c);
+//		}
+//	}
+
+	//back_2588
+	//https://www.acmicpc.net/problem/2588
+	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//		int a = sc.nextInt();
+//		int b = sc.nextInt();
+		int a = 472;
+		int b = 385;		
+		System.out.println(a*(b%10));
+		b = b - b%10;
+		b = b/10;
+		System.out.println(a*(b%10));
+		b = b - b%10;
+		b = b/10;
+		System.out.println(a*(b%10));
+//		if(a<99||b<99||a>=1000||b>=1000) {
+//			System.exit(0);
+//		} else {
+//			System.out.println(a*(b%10));
+//			b = b - b%10;
+//			System.out.println(a*(b%));
+//		}
+	}
+}
