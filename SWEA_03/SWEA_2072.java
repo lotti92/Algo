@@ -1,3 +1,4 @@
+package com.study.algo.swea;
 import java.util.Scanner;
 /* SW Expert Academy 모의 테스트
  * 2072. 홀수만 더하기

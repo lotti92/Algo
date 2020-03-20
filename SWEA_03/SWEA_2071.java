@@ -1,3 +1,4 @@
+package com.study.algo.swea;
 import java.util.Scanner;
 
 public class SWEA_2071 {

@@ -2,3 +2,11 @@
 
 [Java 입력] Scanner vs BufferedReader
 https://blog.naver.com/parkhj2416/221843949484
+
+* BufferedReader와 BufferedWriter 사용법
+
+https://blog.naver.com/ka28/221850826909
+
+* Java EOF에 대해 알아보자
+
+https://mygumi.tistory.com/236
