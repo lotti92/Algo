@@ -7,12 +7,12 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-//¹éÁØ ¾Ë°í¸®Áò  11021¹ø ¹®Á¦
-//3´Ü°è : For¹® - A+B - 7
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 11021ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - A+B - 7
 //https://www.acmicpc.net/problem/11021
 public class Back_11021 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// 1. ³»°¡ »ç¿ëÇÑ ¹æ¹ı
+		// 1. ë‚´ê°€ í‘¼ ë¬¸ì œ
 //		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 //		int num = Integer.parseInt(br.readLine());
@@ -26,7 +26,7 @@ public class Back_11021 {
 //		bw.flush();
 //		bw.close();
 		
-		//2. ¸Ş¸ğ¸® ´õ Àû°Ô µå´Â ¹æ¹ı >> È¿À²¼ºÀº ÀÌ°Ô Á¦ÀÏ ÁÁÀ½
+		//2. ë©”ëª¨ë¦¬ íš¨ìœ¨ì„± ê°€ì¥ ì¢‹ìŒ
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 		int num = Integer.parseInt(br.readLine());
@@ -39,7 +39,7 @@ public class Back_11021 {
 		}
 		System.out.println(sb.toString());
 		
-		//3. »õ·Î¿î ¹æ¹ı
+		//3. 2ë²ˆ ì°¸ê³ í•´ì„œ ë‹¤ì‹œ í’ˆ
 //		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 //		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 //		int num = Integer.parseInt(br.readLine());

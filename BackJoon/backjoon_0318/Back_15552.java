@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-//¹éÁØ ¾Ë°í¸®Áò  15552¹ø ¹®Á¦
-//3´Ü°è : For¹® - ºü¸¥ A+B
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 15552ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - ë¹ ë¥¸ A+B
 //https://www.acmicpc.net/problem/15552
 public class Back_15552 {
 	public static void main(String[] args) throws Exception {

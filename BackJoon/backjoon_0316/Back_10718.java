@@ -1,11 +1,11 @@
 package com.study.algo.backjoon_0316;
 
-//¹éÁØ ¾Ë°í¸®Áò 10718¹ø ¹®Á¦
-//We love kriii (°­ÇÑÄ£±¸ ´ëÇÑÀ°±º 2È¸ Ãâ·Â)
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 10718ë²ˆ ë¬¸ì œ 
+//1ë‹¨ê³„ - We love kriii
 //https://www.acmicpc.net/problem/10718
 public class Back_10718 {
 	public static void main(String[] args) {
-		String text = "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º";
+		String text = "ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°";
 		System.out.println(text);
 		System.out.println(text);		
 	}

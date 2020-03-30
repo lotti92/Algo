@@ -6,8 +6,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-//¹éÁØ ¾Ë°í¸®Áò  2438¹ø ¹®Á¦
-//3´Ü°è : For¹® - º° Âï±â - 1
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 2438ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - ë³„ ì°ê¸° - 1
 //https://www.acmicpc.net/problem/2438
 public class Back_2438 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
@@ -25,7 +25,7 @@ public class Back_2438 {
 	}
 }
 
-//Âü°í 
+//ë‹¤ë¥¸ ë°©ë²•
 //public class Back_2438 {
 //	public static void main(String[] args) throws NumberFormatException, IOException {
 //		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

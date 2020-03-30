@@ -2,8 +2,8 @@ package com.study.algo.backjoon_0316;
 
 import java.util.Scanner;
 
-//¹éÁØ ¾Ë°í¸®Áò 2588¹ø ¹®Á¦
-//°ö¼À Ãâ·Â
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 2588ë²ˆ ë¬¸ì œ 
+//1ë‹¨ê³„ - ê³±ì…ˆ
 //https://www.acmicpc.net/problem/2588
 public class Back_2588 {
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Back_2588 {
 		int b = sc.nextInt();
 		int result = b;
 		
-		//¹æ¹ý1
+		//ï¿½ï¿½ï¿½1
 		System.out.println(a*(b%10));
 		result = modTen(result);
 		System.out.println(a*(result%10));
@@ -20,7 +20,7 @@ public class Back_2588 {
 		System.out.println(a*(result%10));
 		System.out.println(a*b);
 		
-		// ¹æ¹ý2
+		// ï¿½ï¿½ï¿½2
 //		int result2 = a*(b%10);
 //		System.out.println(result2);
 //		b = modTen(b);

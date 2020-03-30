@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//¹éÁØ ¾Ë°í¸®Áò  11022¹ø ¹®Á¦
-//3´Ü°è : For¹® - A+B - 8
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 11022ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - A+B - 8
 //https://www.acmicpc.net/problem/11022
 public class Back_11022 {
 	public static void main(String[] args) throws NumberFormatException, IOException {

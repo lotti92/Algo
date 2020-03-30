@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//¹éÁØ ¾Ë°í¸®Áò 1008¹ø ¹®Á¦
-//A/B Ãâ·Â
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 1008ë²ˆ ë¬¸ì œ 
+//1ë‹¨ê³„ - A/B
 //https://www.acmicpc.net/problem/1008
 public class Back_1008 {
 	public static void main(String[] args) throws Throwable {
@@ -14,7 +14,7 @@ public class Back_1008 {
 		int a = Integer.parseInt(st.nextToken());
 		int b = Integer.parseInt(st.nextToken());
 		if(a < 0 || b < 0 || a > 10 || b > 10) {
-			System.err.println("Á¶°Ç¿¡ ¸ÂÁö ¾ÊÀ½");
+			System.err.println("ìž˜ëª»ìž…ë ¥");
 			System.exit(0);
 		}		
 		System.out.println((double)a/b);

@@ -1,7 +1,7 @@
 package com.study.algo.backjoon_0316;
 
-//¹éÁØ ¾Ë°í¸®Áò 10171¹ø ¹®Á¦
-//°í¾çÀÌ ±×¸² Ãâ·Â
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 10171ë²ˆ ë¬¸ì œ 
+//1ë‹¨ê³„ - ê³ ì–‘ì´
 //https://www.acmicpc.net/problem/10171
 public class Back_10171 {
 	public static void main(String[] args) {

@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//¹éÁØ ¾Ë°í¸®Áò 10869¹ø ¹®Á¦
-//»çÄ¢¿¬»ê Ãâ·Â
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 10869ë²ˆ ë¬¸ì œ 
+//1ë‹¨ê³„ - ì‚¬ì¹™ì—°ì‚°
 //https://www.acmicpc.net/problem/10869
 public class Back_10869 {
 	public static void main(String[] args) throws Throwable {

@@ -7,8 +7,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-//¹éÁØ ¾Ë°í¸®Áò  10871¹ø ¹®Á¦
-//3´Ü°è : For¹® - Xº¸´Ù ÀÛÀº ¼ö
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 10871ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - Xë³´ë‹¤ ì‘ì€ ìˆ˜ 
 //https://www.acmicpc.net/problem/10871
 //2020.03.19
 public class Back_10871 {

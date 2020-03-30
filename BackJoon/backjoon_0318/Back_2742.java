@@ -6,8 +6,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-//¹éÁØ ¾Ë°í¸®Áò  2742¹ø ¹®Á¦
-//3´Ü°è : For¹® - ±âÂï N
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 2742ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - ê¸°ì° N
 //https://www.acmicpc.net/problem/2742
 public class Back_2742 {
 	public static void main(String[] args) throws NumberFormatException, IOException {

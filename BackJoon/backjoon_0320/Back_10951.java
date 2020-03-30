@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//¹éÁØ ¾Ë°í¸®Áò 10951¹ø ¹®Á¦
-//4´Ü°è : while¹® - A+B - 4
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 10951ë²ˆ ë¬¸ì œ 
+//4ë‹¨ê³„: whileë¬¸ - A+B - 4
 //https://www.acmicpc.net/problem/10951
 //2020.03.20
 public class Back_10951 {

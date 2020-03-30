@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//¹éÁØ ¾Ë°í¸®Áò 10950¹ø ¹®Á¦
-//3´Ü°è : For¹® - A+B - 3
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 10950ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - A+B - 3
 //https://www.acmicpc.net/problem/10950
 public class Back_10950 {
 

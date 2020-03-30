@@ -2,8 +2,8 @@ package com.study.algo.backjoon_0317;
 
 import java.util.Scanner;
 
-//¹éÁØ ¾Ë°í¸®Áò 2884¹ø ¹®Á¦
-//2´Ü°è : IF¹® - ¾Ë¶÷ ½Ã°è
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 2884ë²ˆ ë¬¸ì œ 
+//2ë‹¨ê³„ : IFë¬¸ - ì•ŒëžŒ ì‹œê³„
 //https://www.acmicpc.net/problem/2884
 public class Back_2884 {
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Back_2884 {
 		int min = sc.nextInt();
 		
 		if(hour<0 || hour>24 ||min<0 ||min>60) {
-			System.err.println("½Ã°£ Àß¸ø ÀÔ·Â");
+			System.err.println("ìž˜ëª» ìž…ë ¥");
 			System.exit(0);
 		}
 		

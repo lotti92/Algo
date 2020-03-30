@@ -4,22 +4,22 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 
-//¹éÁØ ¾Ë°í¸®Áò  8393¹ø ¹®Á¦
-//3´Ü°è : For¹® - ÇÕ
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 8393ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - í•©
 //https://www.acmicpc.net/problem/8393
 public class Back_8393 {
 	public static void main(String[] args) throws Throwable{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n = Integer.parseInt(br.readLine());
 		
-//		//for¹® »ç¿ë
+//		//forë¬¸ ì‚¬ìš©í•˜ëŠ” ë°©ë²•
 //		int result = 0;
 //		for(int i=0; i<=n; i++) {
 //			result += i;
 //		}
 //		System.out.println(result);
 		
-		//for¹® »ç¿ë ¾øÀÌ 
+		//forë¬¸ ì—†ì´  
 		System.out.println(n*(n+1)/2);
 	}
 }

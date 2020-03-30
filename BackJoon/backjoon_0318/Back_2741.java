@@ -6,8 +6,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-//¹éÁØ ¾Ë°í¸®Áò  2741¹ø ¹®Á¦
-//3´Ü°è : For¹® - N Âï±â
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 2741ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - N ì°ê¸°
 //https://www.acmicpc.net/problem/2741
 public class Back_2741 {
 

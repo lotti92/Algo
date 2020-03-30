@@ -2,8 +2,8 @@ package com.study.algo.backjoon_0317;
 
 import java.util.Scanner;
 
-//¹éÁØ ¾Ë°í¸®Áò 14681¹ø ¹®Á¦
-//2´Ü°è : IF¹® - »çºÐ¸é °í¸£±â
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 14681ë²ˆ ë¬¸ì œ 
+//2ë‹¨ê³„ : IFë¬¸ - ì‚¬ë¶„ë©´ ê³ ë¥´ê¸°
 //https://www.acmicpc.net/problem/14681
 public class Back_14681 {
 	public static void main(String[] args) {

@@ -4,10 +4,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//¹éÁØ ¾Ë°í¸®Áò  2439¹ø ¹®Á¦
-//3´Ü°è : For¹® - º° Âï±â - 2
+//ë°±ì¤€ ì•Œê³ ë¦¬ì¦˜ 2439ë²ˆ ë¬¸ì œ 
+//3ë‹¨ê³„ : Forë¬¸ - ë³„ ì°ê¸° - 2
 //https://www.acmicpc.net/problem/2439
-//È¥ÀÚ ¸øÇ®¾úÀ½ ¤Ğ_¤Ğ
+//í˜¼ì í˜ìœ¼ë¡œ ëª»í’€ì—ˆìŒ ã… ã… 
 public class Back_2439 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
