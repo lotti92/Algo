@@ -10,3 +10,7 @@ https://blog.naver.com/ka28/221850826909
 * Java EOF에 대해 알아보자
 
 https://mygumi.tistory.com/236
+
+* Java 형 변환(int , char, String)
+
+https://blog.naver.com/aver2933/221742073973
